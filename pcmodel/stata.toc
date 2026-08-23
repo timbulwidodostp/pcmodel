@@ -2,4 +2,4 @@
 1
 2
 3
-p interflex Multiplicative interaction models diagnostics and visualization Use interflex With STATA 19
+p pcmodel Estimation of the parameters of a Partial Credit Model Use pcmodel With STATA 19
