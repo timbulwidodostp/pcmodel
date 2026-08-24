@@ -1,6 +1,8 @@
 # pcmodel
 Estimation of the parameters of a Partial Credit Model Use pcmodel With STATA 19
 
+https://www.youtube.com/watch?v=W69_ECSIjkE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
